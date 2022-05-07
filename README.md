@@ -1,7 +1,6 @@
 ### Eaí!👋
 
-- 🔭 Front-end
-- 🌱 Estudando Javascript
+ 🔭 Front-end 🌱 Estudando Javascript
 
 <div align="center">
   <a href="https://github.com/weslleypaes">
@@ -18,4 +17,4 @@
 
 </div>
   
-  ![Snake animation](https://github.com/weslleypaes/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
