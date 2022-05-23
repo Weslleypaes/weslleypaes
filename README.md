@@ -1,6 +1,6 @@
 ### Eaí!👋
 
- 🔭 Front-end 🌱 Estudando Javascript
+ 🔭 Estudando Javascript...
 
 <div align="center">
   <a href="https://github.com/weslleypaes">
