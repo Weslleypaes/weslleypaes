@@ -1,6 +1,6 @@
 ### Hey!👋
 
- 🔭 Studying Javascript...
+ 🔭 Studying NodeJs...
 
 <div align="center">
   <a href="https://github.com/weslleypaes">
