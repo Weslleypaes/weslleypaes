@@ -1,6 +1,6 @@
 ### Hey!👋
 
- 🔭 Studying MongoDB/Mongoose...
+ 🔭 Studying Express...
 
 <div align="center">
   <a href="https://github.com/weslleypaes">
