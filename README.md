@@ -1,6 +1,6 @@
 ### Hey!👋
 
- 🔭 Studying Express...
+ 🔭 Studying React...
 
 <div align="center">
   <a href="https://github.com/weslleypaes">
