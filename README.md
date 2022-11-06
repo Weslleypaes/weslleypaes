@@ -1,6 +1,6 @@
 ### Hey!👋
 
- 🔭 Studying React...
+ 🔭 Studying React and Node...
 
 <div align="center">
   <a href="https://github.com/weslleypaes">
